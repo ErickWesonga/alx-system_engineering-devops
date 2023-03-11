@@ -1,1 +1,1 @@
-user name of current user
+all groups current user is part of
