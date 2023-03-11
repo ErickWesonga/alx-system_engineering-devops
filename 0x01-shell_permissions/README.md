@@ -1,1 +1,1 @@
-siwtching current user to betty
+printing effective username of current user
