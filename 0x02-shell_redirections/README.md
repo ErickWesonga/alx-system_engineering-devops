@@ -1,1 +1,1 @@
-creating a file
+a script that writes into a file
