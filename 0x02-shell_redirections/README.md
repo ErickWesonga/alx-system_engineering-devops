@@ -1,1 +1,1 @@
- displaying first 10 words of a file
+displaying 3rd line of a file in the working directory
